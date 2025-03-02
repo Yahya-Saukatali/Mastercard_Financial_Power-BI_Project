@@ -1,5 +1,4 @@
 # Mastercard_Financial_Power-BI_Project
-# Mastercard Transaction Report
 
 ## Project Overview
 The **Mastercard Transaction Report** is a Power BI project aimed at analyzing customer transactions, identifying patterns, and providing valuable business insights. The project leverages data visualization techniques to help businesses understand customer behavior, transaction trends, and performance metrics.
@@ -59,6 +58,4 @@ The interactive dashboard includes:
 - LeetCode: [Yahya Saukatali](https://leetcode.com/yeahyashake/)
 - GitHub: [Yahya Saukatali](https://github.com/Yahya-Saukatali)
 
-## License
-This project is licensed under the **MIT License**.
 
