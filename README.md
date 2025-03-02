@@ -49,12 +49,12 @@ The interactive dashboard includes:
 3. Explore different tabs to view various reports and insights.
 
 ## Repository
-[Mastercard Transaction Report Repository](https://github.com/Yahya-Saukatali/Mastercard-Transaction-Report)
+[Mastercard Transaction Report Repository]([https://github.com/Yahya-Saukatali/Mastercard-Transaction-Report](https://github.com/Yahya-Saukatali/Mastercard_Financial_Power-BI_Project))
 
 ## Author
 **Yahya Saukatali**
 
-- LinkedIn: https://www.linkedin.com/in/yahya-saukatali
+- LinkedIn: https://www.linkedin.com/in/yahya-saukatali-833061328/
 - LeetCode: https://leetcode.com/yeahyashake/
 - GitHub: https://github.com/Yahya-Saukatali
 
