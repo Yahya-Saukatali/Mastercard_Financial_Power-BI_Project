@@ -54,8 +54,8 @@ The interactive dashboard includes:
 ## Author
 **Yahya Saukatali**
 
-- LinkedIn: [Yahya Saukatali](https://www.linkedin.com/in/yahya-saukatali/)
-- LeetCode: [Yahya Saukatali](https://leetcode.com/yeahyashake/)
-- GitHub: [Yahya Saukatali](https://github.com/Yahya-Saukatali)
+- LinkedIn: https://www.linkedin.com/in/yahya-saukatali
+- LeetCode: https://leetcode.com/yeahyashake/
+- GitHub: https://github.com/Yahya-Saukatali
 
 
